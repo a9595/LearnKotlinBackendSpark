@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: de.bytefish.fcmjava:fcmjava-core:2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.bytefish.fcmjava/fcmjava-core/2.0/e20dc708035e364a8cb37df96591e87e7f53261b/fcmjava-core-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.bytefish.fcmjava/fcmjava-core/2.0/f77df56906595e6a1d70ea310c8fedd8793cbbd7/fcmjava-core-2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

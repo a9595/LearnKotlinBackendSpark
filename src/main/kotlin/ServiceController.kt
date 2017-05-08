@@ -7,7 +7,7 @@ class ServiceController {
 
     init {
         Spark.get("/hello", { request, response ->
-
+            "Hello world2"
         })
     }
 }
