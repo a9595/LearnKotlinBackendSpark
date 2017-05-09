@@ -1,4 +1,4 @@
-import spark.Spark.get
+import controllers.ServiceController
 
 /**
  * Created by andrii.kovalchuk on 08/05/2017.

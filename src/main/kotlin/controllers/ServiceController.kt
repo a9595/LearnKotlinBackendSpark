@@ -1,4 +1,6 @@
-import spark.Spark
+package controllers
+
+import spark.Spark.get
 
 /**
  * Created by andrii.kovalchuk on 08/05/2017.
@@ -6,7 +8,7 @@ import spark.Spark
 class ServiceController {
 
     init {
-        Spark.get("/hello", { request, response ->
+        get("/hello", { request, response ->
             "Hello world2"
         })
     }
